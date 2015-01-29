@@ -1,0 +1,17 @@
+{
+  "name": "kick-off-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-hello-koa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co-body": "^1.0.0",
+    "co-views": "^0.2.0",
+    "ejs": "^2.2.3",
+    "koa-session": "^3.1.0"
+  }
+}
